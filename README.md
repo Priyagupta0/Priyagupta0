@@ -6,6 +6,7 @@
 
 <!-- LinkedIn Button in Green Box -->
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Priyagupta0&label=Profile%20views&color=0e75b6&style=flat" alt="Priyagupta0" /> &ensp;
   <a href="https://www.linkedin.com/in/priya-gupta-325b67290" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-007E5E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -13,7 +14,7 @@
 
 <!-- Woman Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Woman Coding GIF" width="500"/>
+  <img src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif" alt="Woman Coding GIF" width="500"/>
 </p>
 
 ---
