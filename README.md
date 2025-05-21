@@ -72,7 +72,7 @@ I'm a final-year B.Tech Computer Science student with a deep passion for **web d
 <a href="https://linkedin.com/in/priya-gupta-325b67290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-gupta-325b67290" height="60" width="80" /></a>&ensp;
 <a href="https://instagram.com/_priyagupta0209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_priyagupta0209" height="60" width="80" /></a>&ensp;
 <a href="https://www.hackerrank.com/pg7108970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pg7108970" height="60" width="80" /></a>
-<a href="https://www.hackerrank.com/pg7108970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pg7108970" height="60" width="80" /></a>
+<a href="https://leetcode.com/u/pg7108970/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pg7108970" height="60" width="80" /></a>
 </p>
 
 ---
