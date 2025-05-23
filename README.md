@@ -12,13 +12,7 @@
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-007E5E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-<!-- Woman Coding GIF -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif" alt="Woman Coding GIF" width="500"/>
-</p>
-
----
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3753b18a8c7b146e3e7b6d587ee6f72feb44ca788524c36a088659e180ef9c42/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632" height="250">
 
 ### 📫 How to reach me:
 - 🌱 I’m currently learning **Data Science**
