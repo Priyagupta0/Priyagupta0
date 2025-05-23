@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/userupload/42359063/file/original-65e32912e6264fc0d83ecf72ed1c6ff7.gif" width="1100"  height="350">
+<img src="https://cdn.dribbble.com/userupload/42359063/file/original-65e32912e6264fc0d83ecf72ed1c6ff7.gif" width="1100"  height="330">
 
 ###
 
