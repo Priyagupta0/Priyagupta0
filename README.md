@@ -20,8 +20,6 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me : **pg7108970@gmail.com**
-  
-- 📄 Here’s My Resume : [Click Here](https://docs.google.com/document/d/1AWdSEkVU2OeYhI_vrvBRZwPEgpYR83VT/edit?usp=drive_link&ouid=117353160479912309871&rtpof=true&sd=true)
 
 ---
 <h2 align="center">🙋‍♀️ About Me</h2>
