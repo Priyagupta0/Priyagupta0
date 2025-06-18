@@ -3,7 +3,7 @@
 ###
 
 <h1 align="center" style="font-size: 2.8em;">Hi 👋, I'm Priya Gupta</h1>
-<h3 align="center" style="font-size: 1.6em;">🚀 Passionate Front-End Web Developer | React Native Developer | Data Science Enthusiast from India</h3>
+<h3 align="center" style="font-size: 1.6em;">🚀 Passionate Front-End Web Developer | React Native Developer | Data Analyst from India</h3>
 
 <!-- LinkedIn Button in Green Box -->
 <p align="center">
@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3753b18a8c7b146e3e7b6d587ee6f72feb44ca788524c36a088659e180ef9c42/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632" height="250">
 
 ### 📫 How to reach me:
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 💬 Ask me about **Python**
 
@@ -39,18 +39,20 @@ I'm a B.Tech Computer Science student with a deep passion for **web development*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" style="margin:30px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" style="margin:30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="70" style="margin:40px;"/>&ensp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70" style="margin:30px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" style="margin:30px;"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="70" style="margin:30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70" style="margin:30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="70" style="margin:30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="70" style="margin:30px;"/>
 </div>
 
 
