@@ -24,7 +24,7 @@
 ---
 <h2 align="center">🙋‍♀️ About Me</h2>
 
-I'm a B.Tech Computer Science student with a deep passion for **web development**, **mobile app development**, and **data science**. 
+I'm a B.Tech Computer Science student with a deep passion for **web development**, **data analytics**, and **data science**. 
 
 🔧 I love turning **ideas into reality** through code — whether it’s a AI-powered, or an interactive, responsive websites.
 
