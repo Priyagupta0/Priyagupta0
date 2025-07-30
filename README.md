@@ -3,7 +3,7 @@
 ###
 
 <h1 align="center" style="font-size: 2.8em;">Hi 👋, I'm Priya Gupta</h1>
-<h3 align="center" style="font-size: 1.6em;">🚀 Passionate Front-End Web Developer | React Native Developer | Data Analyst from India</h3>
+<h3 align="center" style="font-size: 1.6em;">🚀 Web Developer | Data Analyst | Passionate Data Science Student from India</h3>
 
 <!-- LinkedIn Button in Green Box -->
 <p align="center">
@@ -44,8 +44,9 @@ I'm a B.Tech Computer Science student with a deep passion for **web development*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" style="margin:30px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" style="margin:30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" style="margin:30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="70" style="margin:40px;"/>&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70" style="margin:30px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" style="margin:30px;"/>
@@ -54,7 +55,6 @@ I'm a B.Tech Computer Science student with a deep passion for **web development*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="70" style="margin:30px;"/>
 </div>
-
 
 ---
 
