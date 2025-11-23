@@ -3,7 +3,7 @@
 ###
 
 <h1 align="center" style="font-size: 2.8em;">Hi 👋, I'm Priya Gupta</h1>
-<h3 align="center" style="font-size: 1.6em;">🚀 Web Developer | Data Analyst | Passionate Data Science Student from India</h3>
+<h3 align="center" style="font-size: 1.6em;">🚀 Passionate Python Developer from India</h3>
 
 <!-- LinkedIn Button in Green Box -->
 <p align="center">
@@ -24,7 +24,7 @@
 ---
 <h2 align="center">🙋‍♀️ About Me</h2>
 
-I'm a B.Tech Computer Science student with a deep passion for **web development**, **data analytics**, and **data science**. 
+I'm a B.Tech Computer Science student with a deep passion for **Data science** and having a great knowledge of **Web development**, **Data analyst (PowerBI)**. 
 
 🔧 I love turning **ideas into reality** through code — whether it’s a AI-powered, or an interactive, responsive websites.
 
@@ -49,7 +49,7 @@ I'm a B.Tech Computer Science student with a deep passion for **web development*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" style="margin:30px;"/>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="80"height="80"/</a> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" style="margin:30px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="70" style="margin:40px;"/>&ensp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="70" style="margin:40px;"/>&ensp;
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="80" height="80"/> </a> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70" style="margin:30px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" style="margin:30px;"/>
@@ -57,6 +57,10 @@ I'm a B.Tech Computer Science student with a deep passion for **web development*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="70" style="margin:30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="70" style="margin:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="70" style="margin:30px;" />
+          
+          
 </div>
 
 ---
@@ -65,6 +69,7 @@ I'm a B.Tech Computer Science student with a deep passion for **web development*
 <p align="center">
 <a href="https://twitter.com/priyagupta0209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyagupta0209" height="60" width="80" /></a>&ensp;
 <a href="https://linkedin.com/in/priya-gupta-325b67290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-gupta-325b67290" height="60" width="80" /></a>&ensp;
+<a href="https://www.kaggle.com/priy02"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="priya-gupta" height="60" width="80" /></a>&ensp;     
 <a href="https://instagram.com/_priyagupta0209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_priyagupta0209" height="60" width="80" /></a>&ensp;
 <a href="https://www.hackerrank.com/pg7108970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pg7108970" height="60" width="80" /></a>
 <a href="https://leetcode.com/u/priyag02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pg7108970" height="60" width="80" /></a>
