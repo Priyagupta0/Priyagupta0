@@ -80,4 +80,4 @@ I'm a B.Tech Computer Science student with a deep passion for **Data science** a
 </p>
 
 ---
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyagupta0&show_icons=true&locale=en&layout=compact" alt="Priyagupta0" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyagupta0&show_icons=true&locale=en&layout=compact" alt="Priyagupta0" /></p> -->
