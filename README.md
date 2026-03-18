@@ -15,11 +15,8 @@
     <img src="https://img.shields.io/badge/Website-007E5E?style=for-the-badge&logo=&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-<img align="right" alt="Coding" width="140" src="https://camo.githubusercontent.com/3753b18a8c7b146e3e7b6d587ee6f72feb44ca788524c36a088659e180ef9c42/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632" height="250">
 
 ### 📫 How to reach me:
-- 🌱 I’m currently learning **Data Science**
-
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me : **pg7108970@gmail.com**
@@ -27,7 +24,7 @@
 ---
 <h2 align="center">🙋‍♀️ About Me</h2>
 
-I'm a B.Tech Computer Science student with a deep passion for **Data science** and having a great knowledge of **Web development**, **Data analyst (PowerBI)**. 
+I'm a B.Tech Computer Science student with a deep passion for **AI/ML/DL** and having a great knowledge of **Web development**, **Data analyst (PowerBI)**. 
 
 🔧 I love turning **ideas into reality** through code — whether it’s a AI-powered, or an interactive, responsive websites.
 
