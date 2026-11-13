@@ -21,7 +21,7 @@
 ---
 <h2 align="center">🙋‍♀️ About Me</h2>
 
-I'm a B.Tech Computer Science student with a deep passion for **AI/ML** and having a great knowledge of **Java**, **Web development**. 
+I'm a B.Tech Computer Science student with a deep passion for **AI/ML** and having a great knowledge of **Python**, **Java**, **Web development**. 
 
 🔧 I love turning **ideas into reality** through code — whether it’s a AI-powered, or an interactive, responsive websites.
 
