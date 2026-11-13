@@ -3,7 +3,7 @@
 ###
 
 <h1 align="center" style="font-size: 2.8em;">Hi 👋, I'm Priya Gupta</h1>
-<h3 align="center" style="font-size: 1.6em;">🚀 Passionate Python Developer from India</h3>
+<h3 align="center" style="font-size: 1.6em;">🚀 Passionate Software Developer from India</h3>
 
 <!-- LinkedIn Button in Green Box -->
 <p align="center">
