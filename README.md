@@ -10,10 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Priyagupta0&label=Profile%20views&color=0e75b6&style=flat" alt="Priyagupta0" /> &ensp;
   <a href="https://www.linkedin.com/in/priya-gupta-325b67290" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-007E5E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://pg-priya-gupta-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-007E5E?style=for-the-badge&logo=&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a
 </p>
 
 ### 📫 How to reach me:
@@ -24,7 +21,7 @@
 ---
 <h2 align="center">🙋‍♀️ About Me</h2>
 
-I'm a B.Tech Computer Science student with a deep passion for **AI/ML/DL** and having a great knowledge of **Web development**, **Data analyst (PowerBI)**. 
+I'm a B.Tech Computer Science student with a deep passion for **AI/ML** and having a great knowledge of **Java**, **Web development**. 
 
 🔧 I love turning **ideas into reality** through code — whether it’s a AI-powered, or an interactive, responsive websites.
 
@@ -43,6 +40,7 @@ I'm a B.Tech Computer Science student with a deep passion for **AI/ML/DL** and h
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" style="margin:30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" style="margin:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" style="margin:30px;"/>
